@@ -49,10 +49,3 @@ The output is a **well-formatted HTML file**, which can be easily shared or arch
 - Read/write permissions for the output folder
 
 ---
-
-## Installation
-
-1. Clone the repository or download the script:
-
-```bash
-git clone https://github.com/yourusername/Full-PC-Specs.git
